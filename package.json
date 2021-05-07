@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hyejun8701/modern-js#readme",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.4",
